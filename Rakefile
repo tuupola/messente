@@ -15,8 +15,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "messente"
   gem.homepage = "http://github.com/tuupola/messente"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{An object-oriented Ruby wrapper for the Messente HTTP API.}
+  gem.description = %Q{Messente enables you to send SMS messages from Ruby applications.}
   gem.email = "tuupola@appelsiini.net"
   gem.authors = ["Mika Tuupola"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
