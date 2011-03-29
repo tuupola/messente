@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "lib/messente.rb",
+    "messente.gemspec",
     "test/helper.rb",
     "test/test_messente.rb"
   ]
